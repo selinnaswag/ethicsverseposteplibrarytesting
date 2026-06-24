@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Selinna Tran | Ethicsverse Resource Hub</title>
+    <title>Selinna Tran | Ethicsverse Resource Hub</title> 
     <!-- Tailwind CSS for rapid, scalable UI construction -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Orbitron for futuristic headers, Inter for premium UI prose text readability -->
